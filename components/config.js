@@ -1,0 +1,1 @@
+export const nftcontract = "0xcbbeac9b18f08edf4bfb686f84ce1bfaeb60bc53";
